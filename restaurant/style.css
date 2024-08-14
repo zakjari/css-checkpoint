@@ -1,0 +1,27 @@
+.navbar-brand {
+    font-family: 'Brush Script MT', cursive;
+    font-size: 1.75rem;
+  }
+  
+  .hero {
+    background: url('https://images.unsplash.com/photo-1600891964599-f61ba0e24092?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDJ8fGZvb2QlMjBkaXNofGVufDB8fHx8MTY4ODAxNTQzMw&ixlib=rb-1.2.1&q=80&w=1080') no-repeat center center/cover;
+    height: 100vh;
+  }
+  
+  .text-shadow {
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6);
+  }
+  
+  .menu .card-img-top {
+    height: 200px;
+    object-fit: cover;
+  }
+  
+  .about-us img {
+    max-height: 400px;
+  }
+  
+  footer a {
+    font-size: 1.25rem;
+  }
+  
